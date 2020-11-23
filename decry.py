@@ -7,7 +7,7 @@
 import time
 
 print ()
-print ("Welcome to the Crossbill cipher. You are now in Crossbill - Text mode ")
+print ("Welcome to the Crossbill cypher. You are now in Crossbill - Text mode ")
 
 time.sleep(2)
 
